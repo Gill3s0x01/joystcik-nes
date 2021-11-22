@@ -61,7 +61,7 @@ The following tools were used in the construction of the project:
 ## :computer: Preview
 
 <p size=5>
-  <img style="border-radius:20px;" src="./assets/logo.jpg">
+  <img style="border-radius:20px;" src="./assets/logo1.jpg">
 </p>
 
 ---
