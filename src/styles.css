@@ -362,7 +362,8 @@ body {
 .logo__byline {
   background: #656565;
   color: #a8aaaa;
-  font-size: 0.8rem;
+  padding: 5px;
+  font-size: 0.45rem;
   letter-spacing: 0.2rem;
 }
 
@@ -563,25 +564,25 @@ body {
 }
 
 .button--x {
-  background: #0749b4;
+  background: #b5afdd;
   right: 0.4em;
   top: 0.3em;
 }
 
 .button--y {
-  background: #008d45;
+  background: #b5afdd;
   left: 0.4em;
   top: 0.3em;
 }
 
 .button--a {
-  background: #eb1a1d;
+  background: #5e41c3;
   right: 0.4em;
   top: 0.3em;
 }
 
 .button--b {
-  background: #fece15;
+  background: #5e41c3;
   left: 0.4em;
   top: 0.3em;
 }
